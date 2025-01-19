@@ -19,11 +19,11 @@ import {
   Smile, 
   Frown, 
   Meh, 
-  
+  Calendar, 
   Activity, 
   Heart, 
   Brain,
-
+  Sun,
   Moon,
   Coffee,
   BookOpen,

@@ -1,8 +1,8 @@
 'use client';
 
-import {  } from 'lucide-react';
+import { Users } from 'lucide-react';
 import Link from 'next/link';
-
+import Image from 'next/image';
 
 interface Community {
   id: string;

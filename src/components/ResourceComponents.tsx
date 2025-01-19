@@ -7,7 +7,7 @@ import {
   Tag,
   ThumbsUp,
   Clock,
-  
+  BookmarkPlus
 } from 'lucide-react';
 import Link from 'next/link';
 import { Resource } from '@/app/resources/data';
