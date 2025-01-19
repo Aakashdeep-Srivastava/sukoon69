@@ -1,8 +1,8 @@
 'use client';
 
 import { useState } from 'react';
-import { Users, Lock, Globe } from 'lucide-react';
-import Image from 'next/image';
+import {  } from 'lucide-react';
+//import Image from 'next/image';
 
 export default function CreateCommunityPage() {
   const [isPrivate, setIsPrivate] = useState(false);

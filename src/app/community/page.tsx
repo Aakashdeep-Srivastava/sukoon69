@@ -1,6 +1,6 @@
 import { auth } from "@clerk/nextjs/server";
 import { redirect } from "next/navigation";
-import { Users, Search, Plus, TrendingUp, Bookmark } from 'lucide-react';
+import {  } from 'lucide-react';
 import Link from 'next/link';
 
 export default async function CommunityPage() {
